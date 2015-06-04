@@ -70,3 +70,9 @@ $RECYCLE.BIN/
 *.sln
 *.asset
 ssh-agent.exe.stackdump
+*.csproj
+FYP Unity Project/Assembly-CSharp.csproj
+*.csproj
+FYP Unity Project/Assembly-CSharp-vs.csproj
+*.sln
+FYP Unity Project/FYP Unity Project-csharp.v11.suo
