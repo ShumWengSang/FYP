@@ -69,3 +69,4 @@ $RECYCLE.BIN/
 *.csproj
 *.sln
 *.asset
+ssh-agent.exe.stackdump
