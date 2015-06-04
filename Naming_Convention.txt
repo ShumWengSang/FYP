@@ -1,0 +1,12 @@
+Naming Convention:
+Constant variable: ALLCAPS
+Enumeration: EnumName_enumVariable
+Class: CapsInFront
+Class Variable: variableName
+Function name: _functionName
+
+#define DEBUG
+#ifdef DEBUG
+do
+#endif
+
