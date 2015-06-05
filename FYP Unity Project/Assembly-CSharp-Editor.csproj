@@ -60,11 +60,25 @@
      <Compile Include="Assets\AstarPathfindingProject\Editor\ModifierEditors\RaycastModifierEditor.cs" />
      <Compile Include="Assets\AstarPathfindingProject\Editor\ModifierEditors\SmoothModifierEditor.cs" />
      <Compile Include="Assets\AstarPathfindingProject\Editor\SeekerEditor.cs" />
+     <Compile Include="Assets\InControlMain\Editor\PackageExporter.cs" />
+     <Compile Include="Assets\InControlMain\Editor\VersionUpdater.cs" />
+     <Compile Include="Assets\InControlMain\InControl\Editor\InControlBuilder.cs" />
+     <Compile Include="Assets\InControlMain\InControl\Editor\InControlManagerEditor.cs" />
+     <Compile Include="Assets\InControlMain\InControl\Editor\InputManagerAssetGenerator.cs" />
+     <Compile Include="Assets\InControlMain\InControl\Editor\ProfileListGenerator.cs" />
+     <Compile Include="Assets\InControlMain\InControl\Editor\ReorderableList\GenericListAdaptor.cs" />
+     <Compile Include="Assets\InControlMain\InControl\Editor\ReorderableList\IReorderableListAdaptor.cs" />
+     <Compile Include="Assets\InControlMain\InControl\Editor\ReorderableList\Internal\GUIHelper.cs" />
+     <Compile Include="Assets\InControlMain\InControl\Editor\ReorderableList\Internal\ReorderableListResources.cs" />
+     <Compile Include="Assets\InControlMain\InControl\Editor\ReorderableList\ReorderableListControl.cs" />
+     <Compile Include="Assets\InControlMain\InControl\Editor\ReorderableList\ReorderableListFlags.cs" />
+     <Compile Include="Assets\InControlMain\InControl\Editor\ReorderableList\ReorderableListGUI.cs" />
+     <Compile Include="Assets\InControlMain\InControl\Editor\ReorderableList\SerializedPropertyAdaptor.cs" />
      <None Include="Assets\AstarPathfindingProject\Editor\EditorAssets\Materials\Navmesh2.shader" />
      <None Include="Assets\AstarPathfindingProject\Plugins\DotNetZip\License.txt" />
+     <None Include="Assets\InControlMain\InControl\README\README.txt" />
      <None Include="Assets\AstarPathfindingProject\Plugins\dependencies.txt" />
      <None Include="Assets\AstarPathfindingProject\Readme_upgrading.txt" />
-     <None Include="Assets\SonyExamples\PS4\Input\README.txt" />
      <None Include="Assets\AstarPathfindingProject\Readme.txt" />
      <None Include="Assets\AstarPathfindingProject\Plugins\JsonFx\License.txt" />
      <None Include="Assets\AstarPathfindingProject\Plugins\JsonFx\Readme.txt" />
@@ -74,6 +88,12 @@
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Pathfinding.Ionic.Zip.Reduced">
+ <HintPath>C:/Users/132067D/Documents/GitHub/FYP/FYP Unity Project/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+ </Reference>
+ <Reference Include="Pathfinding.JsonFx">
+ <HintPath>C:/Users/132067D/Documents/GitHub/FYP/FYP Unity Project/Assets/AstarPathfindingProject/Plugins/JsonFx/Pathfinding.JsonFx.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -110,12 +130,6 @@
  </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/macstandalonesupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="Pathfinding.JsonFx">
- <HintPath>C:/Users/132067D/Documents/GitHub/FYP/FYP Unity Project/Assets/AstarPathfindingProject/Plugins/JsonFx/Pathfinding.JsonFx.dll</HintPath>
- </Reference>
- <Reference Include="Pathfinding.Ionic.Zip.Reduced">
- <HintPath>C:/Users/132067D/Documents/GitHub/FYP/FYP Unity Project/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

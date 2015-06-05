@@ -4,7 +4,7 @@
     <volume_type>pkg_ps4_app</volume_type>
     <volume_id>
     </volume_id>
-    <volume_ts>2015-06-04 17:54:50</volume_ts>
+    <volume_ts>2015-06-05 14:09:59</volume_ts>
     <package content_id="ED1633-NPXX51362_00-0000000000000000" passcode="frAQBc8Wsa1xVPfvJcrgRYwTiizs2trQ" storage_type="digital50" app_type="full" />
     <chunk_info chunk_count="1" scenario_count="1">
       <chunks>
@@ -18,9 +18,11 @@
   <files img_no="0">
     <file targ_path="eboot.bin" orig_path="C:\Users\132067D\Documents\GitHub\FYP\FYP Unity Project/Temp/StagingArea\eboot.bin" />
     <file targ_path="Media/level0" orig_path="C:\Users\132067D\Documents\GitHub\FYP\FYP Unity Project/Temp/StagingArea\Data\level0" />
+    <file targ_path="Media/level1" orig_path="C:\Users\132067D\Documents\GitHub\FYP\FYP Unity Project/Temp/StagingArea\Data\level1" />
     <file targ_path="Media/mainData" orig_path="C:\Users\132067D\Documents\GitHub\FYP\FYP Unity Project/Temp/StagingArea\Data\mainData" />
     <file targ_path="Media/sharedassets0.assets" orig_path="C:\Users\132067D\Documents\GitHub\FYP\FYP Unity Project/Temp/StagingArea\Data\sharedassets0.assets" />
     <file targ_path="Media/sharedassets1.assets" orig_path="C:\Users\132067D\Documents\GitHub\FYP\FYP Unity Project/Temp/StagingArea\Data\sharedassets1.assets" />
+    <file targ_path="Media/sharedassets2.assets" orig_path="C:\Users\132067D\Documents\GitHub\FYP\FYP Unity Project/Temp/StagingArea\Data\sharedassets2.assets" />
     <file targ_path="Media/Managed/Assembly-CSharp.dll" orig_path="C:\Users\132067D\Documents\GitHub\FYP\FYP Unity Project/Temp/StagingArea\Data\Managed\Assembly-CSharp.dll" />
     <file targ_path="Media/Managed/Mono.Posix.dll" orig_path="C:\Users\132067D\Documents\GitHub\FYP\FYP Unity Project/Temp/StagingArea\Data\Managed\Mono.Posix.dll" />
     <file targ_path="Media/Managed/Mono.Security.dll" orig_path="C:\Users\132067D\Documents\GitHub\FYP\FYP Unity Project/Temp/StagingArea\Data\Managed\Mono.Security.dll" />
